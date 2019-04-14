@@ -1,0 +1,3 @@
+git init -> iniciar o repositorio
+git status -> mostra o status do repositório
+git add -A -> adicionar todos os arquivos ao controle de versão
