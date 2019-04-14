@@ -6,3 +6,11 @@ git commit -m "comentario" -> confirmar o arquivo
 git config --global user.email "viny6015@gmail.com"
 
 git config --global user.name "Vinicius"
+
+git clone -> clonar o repositorio do github para a maquina.
+
+git push -> enviar para o github
+
+git pull -> trazer do github
+
+git remote add origin -> associar o repositorio local com um remoto
