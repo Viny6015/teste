@@ -1,3 +1,8 @@
 git init -> iniciar o repositorio
 git status -> mostra o status do repositório
 git add -A -> adicionar todos os arquivos ao controle de versão
+git commit -m "comentario" -> confirmar o arquivo
+
+git config --global user.email "viny6015@gmail.com"
+
+git config --global user.name "Vinicius"
